@@ -18,7 +18,7 @@ Este projeto é uma aplicação em Java que simula o controle de um cartão de c
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seuusuario/controle-cartao-credito.git
+   git clone https://github.com/edimaiquemaciel/ComprasComCartaoDeCredito.git
    ```
 
 2. **Abra o projeto** na sua IDE favorita (Eclipse, IntelliJ IDEA, VSCode, etc.).
